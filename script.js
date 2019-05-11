@@ -1,0 +1,1 @@
+var myObject = Object.create(Object.prototype);
